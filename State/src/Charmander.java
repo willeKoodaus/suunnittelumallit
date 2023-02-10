@@ -6,7 +6,7 @@ public class Charmander implements PokemonState {
 	    return instance;
 	  }
 	  
-	public void doTrick() {
+	public void teeTemppu() {
 		System.out.println("Charmander hyppäsi!");
 		
 	}

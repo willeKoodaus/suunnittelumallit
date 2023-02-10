@@ -6,7 +6,7 @@ public class Charmeleon implements PokemonState{
 	  public static Charmeleon getInstance() {
 	    return instance;
 	  }
-	  public void doTrick() {
+	  public void teeTemppu() {
 	    System.out.println("Charmeleon nosti 100 kiloa penkistä!");
 	  }
 

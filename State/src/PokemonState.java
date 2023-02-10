@@ -1,6 +1,6 @@
 
 public interface PokemonState {
 
-	public abstract void doTrick();
+	public abstract void teeTemppu();
 
 }

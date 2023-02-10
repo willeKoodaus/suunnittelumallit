@@ -6,7 +6,7 @@ public class Charizard implements PokemonState{
 	    return instance;
 	  }
 	  
-	  public void doTrick() {
+	  public void teeTemppu() {
 	    System.out.println("Charizard veti maasta 350 kiloa !!");
 	  }
 	}

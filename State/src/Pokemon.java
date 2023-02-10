@@ -7,8 +7,8 @@ public class Pokemon {
 	    state = Charmander.getInstance();
 	  }
 	  
-	  public void doTrick() {
-	    state.doTrick();
+	  public void teeTemppu() {
+	    state.teeTemppu();
 	    temppuLaskuri++;
 	    if (temppuLaskuri == 3) {
 	      state = Charmeleon.getInstance();
